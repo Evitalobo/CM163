@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Custom_RenderCA
-  m_Shader: {fileID: 4800000, guid: 33078f436e6d14320ac1534a2db929ad, type: 3}
+  m_Shader: {fileID: 4800000, guid: fecc5d087004944d7b77e432350bfbff, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -63,12 +63,14 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _HiClass: 1.45
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
+    - _Speed: 12.3
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
