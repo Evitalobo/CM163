@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: twistyBoi
-  m_Shader: {fileID: 4800000, guid: b421432b6447a439ebe8bf3ac351b814, type: 3}
+  m_Shader: {fileID: 4800000, guid: b2f208724d76d41be84841cf468c3057, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -63,6 +63,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _HiClass: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
