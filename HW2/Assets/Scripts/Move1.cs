@@ -16,12 +16,12 @@ public class Move1 : MonoBehaviour
         else
             transform.Translate(-Vector2.right * speed * Time.deltaTime);
 
-        if (transform.position.x >= 5.0f || transform.position.z >= 5.0f)
+        if (transform.position.x >= 10.0f || transform.position.z >= 10.0f)
         {
             change = false;
         }
 
-        if (transform.position.x <= -5f || transform.position.z <= -5.0f)
+        if (transform.position.x <= -10f || transform.position.z <= -10.0f)
         {
             change = true;
         }
