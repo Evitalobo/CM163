@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CM163_PhongRim
-  m_Shader: {fileID: 4800000, guid: 8f6fabd2a1b2a41b08a401c676b1b530, type: 3}
+  m_Shader: {fileID: 4800000, guid: 1379e29db2cf44f83a15925a437528f5, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 321bf6c7099954586aafcc2ed188166b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1e829111af2cc467e93fa0afb9a8a15b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

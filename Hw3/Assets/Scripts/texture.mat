@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _DirtTex:
         m_Texture: {fileID: 2800000, guid: 321bf6c7099954586aafcc2ed188166b, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
@@ -45,7 +45,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _GrassTex:
         m_Texture: {fileID: 2800000, guid: 5b767af1c49694a40bb24d351ea784fb, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _HeightMapTex:
         m_Texture: {fileID: 2800000, guid: ae2615acd052f442f99a11351fc509c8, type: 3}
@@ -69,7 +69,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SnowTex:
         m_Texture: {fileID: 2800000, guid: 5b767af1c49694a40bb24d351ea784fb, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 6, y: 6}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
