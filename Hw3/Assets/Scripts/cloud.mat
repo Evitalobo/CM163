@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: cloud
-  m_Shader: {fileID: 4800000, guid: 5fccf5e68929645fba35136b1b360e5b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 016a193bf768b4498a46d43bce45af4a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -36,7 +36,7 @@ Material:
         m_Scale: {x: 2, y: 2}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 1e829111af2cc467e93fa0afb9a8a15b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SnowTex:
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _DisplacementAmt: 0.35
+    - _DisplacementAmt: 1.16
     - _Emissiveness: 0
     - _RimPower: 4
     - _Shininess: 19.31
